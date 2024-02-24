@@ -1,2 +1,3 @@
-# jttp
-Simple and Basic HTTP server in Janet
+# JTTP
+
+Basic and Simple HTTP server made in Janet.
